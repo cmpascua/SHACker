@@ -8,7 +8,9 @@ programs of the University of the Philippines - Los Baños (UPLB). The SHAC is r
 Through SHACker, the committee can easily detect **inconsistencies** in the student records which speeds up the process and ensures data integrity. Since computations, curriculum, and enrollment status checking from the student record are automated, the SHAC may focus more on cross-validating other supporting documents such as the Underload Permit, Replacement of GE courses form (i.e.,
 CAS OCS Form 014) and GE Plan of Study (i.e., CAS OCS Form 019), among many others.
 
-![SHACker Logo](Assets/Logo.png)
+<div align="center">
+  <img src="Assets/Logo.png" alt="SHACker" width="300">
+</div>
 
 ---
 
@@ -23,7 +25,7 @@ CAS OCS Form 014) and GE Plan of Study (i.e., CAS OCS Form 019), among many othe
 
 ## 📂 Project Resources & Media
 
-* 📄 **[Read the System Requirements Specifications Here](https://cmpascua.github.io/caventology-journal/CMSC190_CJMPascua_journal.pdf)**
+* 📄 **[Read the System Requirements Specifications Here](https://cmpascua.github.io/SHACker/Assets/SRS_SHACker_D4L.pdf)**
 
 ### 📺 Screenshots
 
